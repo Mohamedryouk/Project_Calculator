@@ -1,0 +1,13 @@
+# Ignore Visual Studio folder
+.vs/
+
+# Ignore CLion and JetBrains project files
+.idea/
+
+# Ignore CMake build output
+cmake-build-*/
+
+# Ignore system junk
+*.log
+*.tmp
+*.swp
